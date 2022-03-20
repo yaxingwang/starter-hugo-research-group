@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "1"
   background:
-    image: avatar1.jpg
+    image: featured.png
 ---
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
