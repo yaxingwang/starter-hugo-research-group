@@ -33,7 +33,7 @@ content:
       media: contact.jpg
    - title: World 
     content: 'The life is beautiful!'
-    align: left
+    align: right
     background:
       position: center
       color: '#555'
