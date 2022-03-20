@@ -31,6 +31,14 @@ content:
       color: '#555'
       brightness: 0.7
       media: contact.jpg
+   - title: World 
+    content: 'The life is beautiful!'
+    align: left
+    background:
+      position: center
+      color: '#555'
+      brightness: 0.7
+      media: barcelona.jpeg
   - title: World-Class Semiconductor Lab
     content: 'Just opened last month!'
     align: right
