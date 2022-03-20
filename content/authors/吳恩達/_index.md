@@ -41,7 +41,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Leader
+  - Researchers
 ---
 Yaxing is an associate professor of college of computer science at Nankai University. His research interests include My research interests include GAN, image-to-image translation, domain adaptation and lifelong learning. 
 
