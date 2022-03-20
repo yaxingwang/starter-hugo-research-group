@@ -11,6 +11,7 @@ design:
   css_class: null
   background:
     image: img_20210515_191851.jpg
+    image_darken: 0
 ---
 <br>
 
