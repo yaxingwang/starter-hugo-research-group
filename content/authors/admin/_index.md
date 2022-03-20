@@ -1,6 +1,6 @@
 ---
 role: Professor of Generative Adversarial Networks
-avatar_filename: 屏幕快照-2022-03-19-下午12.34.58.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
