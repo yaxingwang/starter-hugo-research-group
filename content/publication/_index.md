@@ -22,7 +22,7 @@ authors:
   - Bogdan Raducanu
 publication: In *Arxiv libary*
 publication_short: In arxiv
-summary: We explore first the setting from unconditional GANs to conditional GANs.
+summary: ""
 banner:
   caption: ""
   image: ""
