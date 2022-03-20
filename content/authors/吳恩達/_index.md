@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - 吳恩達
-title: 王亚星-Yaxing Wang
+title: Yaxing Wang
 role: Associate Professor of College of Computer Science
 avatar_filename: avatar.png
 bio: My research interests include GAN, image-to-image translation and domain
