@@ -170,6 +170,7 @@ image:
     sgRMTBBgrO49lSNRvDbD5XLjqLeeICAglVQQCxG2RkzEiAokxUlVkFKUoFKUoFKUoFKUoFKUoFK\
     UoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoP//Z)"
   focal_point: Right
+  filename: featured.jpg
 url_code: ""
 all_day: false
 ---
