@@ -3,7 +3,7 @@ widget: blank
 widget_id: Plama
 headless: true
 weight: 40
-title: null
+title: Trip timeline
 subtitle: null
 design:
   columns: "1"
