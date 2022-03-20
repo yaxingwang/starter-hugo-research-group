@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: avatar1.jpg
+    image: img_20210515_191851.jpg
 ---
 <br>
 
