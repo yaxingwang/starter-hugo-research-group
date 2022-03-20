@@ -9,6 +9,8 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: avatar1.jpg
 ---
 <br>
 
