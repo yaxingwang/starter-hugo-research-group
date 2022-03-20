@@ -2,7 +2,7 @@
 organizations:
   - name: Nankai University
     url: ""
-superuser: false
+superuser: true
 authors:
   - 吳恩達
 title: 王亚星-Yaxing Wang
@@ -41,8 +41,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - Leader
 ---
 Yaxing is an associate professor of college of computer science at Nankai University. His research interests include My research interests include GAN, image-to-image translation, domain adaptation and lifelong learning. 
 
