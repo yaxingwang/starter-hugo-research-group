@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - 吳恩達
+  - 王亚星
 title: Yaxing Wang
 role: Associate Professor of College of Computer Science
 avatar_filename: avatar.png
