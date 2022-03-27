@@ -13,7 +13,7 @@ abstract: Conditional GANs have matured in recent years and are able to generate
   we validate the efficiency of the hypernetworks, self-initialization and
   contrastive loss for knowledge transfer on several standard benchmarks.
 slides: null
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://arxiv.org/pdf/2112.02219.pdf
 publication_types:
   - "1"
 authors:
