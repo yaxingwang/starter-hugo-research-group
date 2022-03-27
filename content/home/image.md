@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: img_20210515_191851.jpg
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
