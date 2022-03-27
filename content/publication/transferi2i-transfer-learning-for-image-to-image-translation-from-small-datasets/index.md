@@ -21,7 +21,7 @@ abstract: "Image-to-image (I2I) translation has matured in recent years and is
   (Animal faces, Birds, and Foods), we show that we outperform existing methods
   and that mFID improves on several datasets with over 25 points."
 slides: null
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_TransferI2I_Transfer_Learning_for_Image-to-Image_Translation_From_Small_Datasets_ICCV_2021_paper.pdf
 publication_types:
   - "1"
 authors:
