@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: yaxing@nankai.edu.cn
-  phone: 888 888 88 88
+  phone: 15822993115
   address:
     street: 38 Tongyan Road, Jinnan District
     city: Tianjin
