@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: contact
+widget: contact 
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: looking me
 
 content:
   # Contact (edit or remove options as required)
@@ -30,12 +30,6 @@ content:
   directions: Enter College of Computer Science  and take the stairs to Office 448 on Floor 4
   office_hours:
     - 'Monday-Friday 8:00 to 18:00'
-  #appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
   autolink: true
