@@ -36,7 +36,7 @@ education:
 #      year: 2008
 superuser: false
 user_groups:
-  - Researchers
+  - Visitors
 highlight_name: false
 title: StyleGAN
 email: ""
