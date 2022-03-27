@@ -25,8 +25,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '339.1039'
-    longitude: '117.1742'
+    latitude: '39.10415241944933'
+    longitude: '117.17430902815835'
   directions: Enter College of Computer Science  and take the stairs to Office 448 on Floor 4
   office_hours:
     - 'Monday-Friday 8:00 to 18:00'
