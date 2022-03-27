@@ -18,7 +18,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yaxing@nankai.edu.cn
+    link: 'yaxing@nankai.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://mobile.twitter.com/yaxing_wang
