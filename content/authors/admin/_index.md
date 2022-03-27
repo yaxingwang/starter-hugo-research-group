@@ -1,5 +1,5 @@
 ---
-role: Professor of Generative Adversarial Networks
+role: Virtual person from Generative Adversarial Networks
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -22,7 +22,7 @@ social:
 #    link: https://github.com/gcushen
 organizations:
   - name: NAVID
-    url: ""
+    url: "https://github.com/NVlabs/stylegan"
 education:
   courses:
     - course:  Image Generation
