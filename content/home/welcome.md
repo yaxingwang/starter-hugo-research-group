@@ -6,11 +6,11 @@ title: Yaxing research Group
 hero_media: welcome.jpg
 widget_id: Work hard, Play hard
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
-    image: img_20210515_191851.jpg
+    image: ""
     image_darken: 0
 ---
 <br>
