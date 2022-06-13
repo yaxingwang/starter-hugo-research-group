@@ -24,9 +24,9 @@ publication_types:
 authors:
   - Shiqi Yang
   - Yaxing Wang
-  - Joost van de Weijer
-  - Luis Herranz
+  - Kai Wang
   - Shangling Jui
+  - Joost van de Weijer
 publication: Arxiv
 featured: true
 tags:
