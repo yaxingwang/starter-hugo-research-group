@@ -54,8 +54,4 @@ url_poster: "#"
 url_code: https://github.com/Albert0147/SFDA_neighbors
 doi: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
 Code: https:<https://github.com/Albert0147/AaD_SFDA>[](https://github.com/Albert0147/SFDA_neighbors).
