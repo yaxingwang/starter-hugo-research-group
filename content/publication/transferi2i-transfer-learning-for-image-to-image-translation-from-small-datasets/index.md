@@ -58,10 +58,5 @@ url_poster: "#"
 url_code: "#"
 doi: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Code: [](<https://github.com/yaxingwang/
-TransferI2I>)[https://github.com/yaxingwang/ TransferI2I](<https://github.com/yaxingwang/
-TransferI2I>).
+ICCV2021. Code: <https://github.com/yaxingwang/
+TransferI2I>
