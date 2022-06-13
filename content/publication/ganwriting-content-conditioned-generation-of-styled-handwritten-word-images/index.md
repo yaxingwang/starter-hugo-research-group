@@ -40,7 +40,7 @@ url_project: ""
 publication_short: ECCV2020
 url_source: "#"
 url_video: "#"
-date: 2022-06-13T10:34:59.341Z
+date: 2020-09-01T10:34:59.341Z
 url_slides: ""
 links:
   - name: Custom Link
