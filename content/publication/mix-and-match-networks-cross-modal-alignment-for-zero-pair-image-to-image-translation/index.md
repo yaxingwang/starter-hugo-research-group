@@ -25,13 +25,12 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Yaxing Wang
+  - Luis Herranz
+  - Joost van de Weijer
+author_notes: []
 publication: "*International Journal of Computer Vision*"
-summary: We investigate multi-domain translation
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: IJCV
@@ -55,9 +54,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+IJCV-2020.Code:<http://github.com/yaxingwang/Mix-and-match-networks>
