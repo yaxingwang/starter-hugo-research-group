@@ -21,10 +21,11 @@ url_pdf: https://arxiv.org/pdf/2112.02219.pdf
 publication_types:
   - "1"
 authors:
-  - Héctor Laria
+  - Shiqi Yang
   - Yaxing Wang
   - Joost van de Weijer
-  - Bogdan Raducanu
+  - Luis Herranz
+  - Shangling Jui
 publication: In *Arxiv libary*
 featured: true
 tags:
@@ -52,4 +53,4 @@ url_poster: "#"
 url_code: "#"
 doi: ""
 ---
-Code: [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Code: <https://github.com/Albert0147/BAIT_SFUDA>[](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
