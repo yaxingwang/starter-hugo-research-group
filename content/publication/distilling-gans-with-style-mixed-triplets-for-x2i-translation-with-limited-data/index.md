@@ -53,4 +53,4 @@ url_poster: "#"
 url_code: https://github.com/Albert0147/SFDA_neighbors
 doi: ""
 ---
-ICLR2O22.Code: <https://github.com/yaxingwang/KDIT>
+ICLR2022.Code: <https://github.com/yaxingwang/KDIT>
