@@ -54,8 +54,4 @@ url_poster: "#"
 url_code: "#"
 doi: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
 Code: \[](<https://github.com/yaxingwang/MineGAN>)\[https://github.com/yaxingwang/MineGAN](<https://github.com/yaxingwang/MineGAN).
