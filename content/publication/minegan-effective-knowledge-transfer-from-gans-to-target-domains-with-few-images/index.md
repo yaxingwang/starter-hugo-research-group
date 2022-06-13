@@ -56,4 +56,4 @@ url_poster: "#"
 url_code: "#"
 doi: ""
 ---
-Code:<https://github.com/yaxingwang/MineGAN>
+CVPR2020. Code:<https://github.com/yaxingwang/MineGAN>
