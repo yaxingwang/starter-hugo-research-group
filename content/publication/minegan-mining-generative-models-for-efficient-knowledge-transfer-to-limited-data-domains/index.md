@@ -23,7 +23,6 @@ url_pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_TransferI2I_
 publication_types:
   - "3"
 authors:
-  - Shiqi Yang
   - Yaxing Wang
   - Joost van de Weijer
   - Luis Herranz
