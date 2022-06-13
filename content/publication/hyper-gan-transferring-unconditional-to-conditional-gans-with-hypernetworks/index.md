@@ -1,4 +1,5 @@
 ---
+title: "Hyper-GAN: Transferring Unconditional to Conditional GANs with HyperNetworks"
 abstract: Conditional GANs have matured in recent years and are able to generate
   high-quality realistic images. However, the computational resources and the
   training data required for the training of high-quality GANs are enormous, and
@@ -21,37 +22,31 @@ authors:
   - Yaxing Wang
   - Joost van de Weijer
   - Bogdan Raducanu
+publication: In *Arxiv libary*
+featured: true
+tags:
+  - Source Themes
+projects:
+  - internal-project
 summary: We explore first the setting from unconditional GANs to conditional GANs.
 url_dataset: "#"
 url_project: ""
 publication_short: In *arxiv*
 url_source: "#"
 url_video: "#"
-publication: In *Arxiv libary*
-featured: true
 date: 2022-03-20T05:00:35.069Z
 url_slides: ""
-title: "Hyper-GAN: Transferring Unconditional to Conditional GANs with HyperNetworks"
-tags:
-  - Source Themes
 links:
   - name: Custom Link
     url: http://example.org
-projects:
-  - internal-project
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+CVPRW2022. Code:<https://github.com/hecoding/Hyper-Modulation>
