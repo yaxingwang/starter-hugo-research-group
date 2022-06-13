@@ -25,11 +25,10 @@ url_pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_TransferI2I_
 publication_types:
   - "1"
 authors:
-  - Shiqi Yang
   - Yaxing Wang
-  - Joost van de Weijer
-  - Luis Herranz
-  - Shangling Jui
+  - Hector Laria Mantecon
+  - Joost van de WeijerLaura Lopez-Fuentes
+  - Bogdan Raducanu
 publication: In *Proceedings of the IEEE/CVF International Conference on
   Computer Vision (ICCV)*
 featured: true
