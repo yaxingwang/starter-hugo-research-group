@@ -58,8 +58,4 @@ url_poster: "#"
 url_code: "#"
 doi: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Code: \[](<https://github.com/Albert0147/G-SFDA>)\[https://github.com/Albert0147/G-SFDA](<https://github.com/Albert0147/G-SFDA>).
+ICCV2021. Code:<https://github.com/Albert0147/G-SFDA>.
